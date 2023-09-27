@@ -1,7 +1,7 @@
-package submissions_LeetCode;
 import java.util.Stack;
 
 public class EASY_Valid_Parentheses {
+    
     public static void main(String[] args) {
         String[] inputs = {"()", "()[]{}", "(]", "){"};        
         for (String s: inputs)
