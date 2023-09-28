@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class EASY_Valid_Parentheses {
+public class EASY_ValidParentheses {
     
     public static void main(String[] args) {
         String[] inputs = {"()", "()[]{}", "(]", "){"};        
